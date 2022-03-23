@@ -1,7 +1,7 @@
 # Machine Learning
 
 ## Presentation
-Follow [along](https://byui451.github.io/guide_machine_learning/#1)
+View our slides [here](https://byui451.github.io/guide_machine_learning/#1)
 
 ## What is machine learning?
 In simple terms, machine learning is a diverse set of tools that are used to understand data and it allows us to go further beyond summary statistics and basic analystics. To sum it up, machine learning learns from the data without being programmed. 
@@ -56,3 +56,4 @@ Databrick users are able to access the MLlib, or Spark's machine learning librar
 
 ## Additional Learning
 [Machine Learning on Spark](https://adb-5187062830023627.7.azuredatabricks.net/?o=5187062830023627#notebook/2204255629165651/command/1092605121220237)
+[Machine Learning - Examples](https://adb-5187062830023627.7.azuredatabricks.net/?o=5187062830023627#notebook/1190525867506557/command/1190525867506563)
