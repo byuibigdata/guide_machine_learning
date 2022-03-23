@@ -6,7 +6,7 @@ Follow [along](https://byui451.github.io/guide_machine_learning/#1)
 ## What is machine learning?
 In simple terms, machine learning is a diverse set of tools that are used to understand data and it allows us to go further beyond summary statistics and basic analystics. To sum it up, machine learning learns from the data without being programmed. 
 
-# Why Spark machine learning?
+## Why Spark machine learning?
 - Scale
   - Process more data than can fit in any one machine
   - More data == performant models
