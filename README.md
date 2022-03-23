@@ -56,4 +56,5 @@ Databrick users are able to access the MLlib, or Spark's machine learning librar
 
 ## Additional Learning
 [Machine Learning on Spark](https://adb-5187062830023627.7.azuredatabricks.net/?o=5187062830023627#notebook/2204255629165651/command/1092605121220237)
+
 [Machine Learning - Examples](https://adb-5187062830023627.7.azuredatabricks.net/?o=5187062830023627#notebook/1190525867506557/command/1190525867506563)
