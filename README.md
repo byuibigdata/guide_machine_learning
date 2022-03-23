@@ -21,3 +21,18 @@ Databrick users are able to access the MLlib, or Spark's machine learning librar
 
 ## Two Type of MLib
 
+### MLib (RDD-based)
+(https://databricks.com/glossary/what-is-rdd)
+
+-RDD, Resilient Distributed Dataset, is a  collection of elements of data, partitioned across nodes that allows processes to be run in parallel.
+
+-The dataframe structure in Spark ML allows for seamless translation to RDD's.
+
+### MLib (Dataframe-based)
+
+-Provide a more user-friendly API than RDDs
+
+-Provides a uniform API across ML algorithms and across multiple languages.
+
+## Additional Learning
+[Machine Learning on Spark](https://adb-5187062830023627.7.azuredatabricks.net/?o=5187062830023627#notebook/2204255629165651/command/1092605121220237)
