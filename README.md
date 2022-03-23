@@ -16,6 +16,14 @@ In simple terms, machine learning is a diverse set of tools that are used to und
   - Languages (Python, R, Scala, SQL, Java)
 - Model training and production model serving  
 
+## Data Import
+
+- Traditional databases like Postgres, SQL Server, and MySQL
+- Message brokers like Kafka and Kinesis
+- Distributed databases like Cassandra and Redshift
+- Data warehouses like Hive
+- File types like CSV, Parquet, and Avro
+
 ![](pictures/ml.png)
 
 ## MLib
