@@ -6,6 +6,16 @@ Follow [along](https://byui451.github.io/guide_machine_learning/#1)
 ## What is machine learning?
 In simple terms, machine learning is a diverse set of tools that are used to understand data and it allows us to go further beyond summary statistics and basic analystics. To sum it up, machine learning learns from the data without being programmed. 
 
+# Why Spark machine learning?
+- Scale
+  - Process more data than can fit in any one machine
+  - More data == performant models
+- Works with pre-existing pipelines and tools
+  - Spark (streaming, ETL, ad hoc analysis, reporting)
+  - Frameworks (sklearn, Tensorflow and Horovod, R)
+  - Languages (Python, R, Scala, SQL, Java)
+- Model training and production model serving   
+
 ## MLib
 Databrick users are able to access the MLlib, or Spark's machine learning library, which makes machine learning scalabe and easy to implement . Tools avaiable for the library include
 
@@ -19,7 +29,7 @@ Databrick users are able to access the MLlib, or Spark's machine learning librar
 
 -Utilities: linear algebra, statistics, data handling, etc.
 
-## Two Type of MLib
+## Two Type of MLib: (Both don't work as well for smaller datasets)
 
 ### MLib (RDD-based)
 (https://databricks.com/glossary/what-is-rdd)
