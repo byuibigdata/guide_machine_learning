@@ -14,7 +14,9 @@ In simple terms, machine learning is a diverse set of tools that are used to und
   - Spark (streaming, ETL, ad hoc analysis, reporting)
   - Frameworks (sklearn, Tensorflow and Horovod, R)
   - Languages (Python, R, Scala, SQL, Java)
-- Model training and production model serving   
+- Model training and production model serving  
+
+![](pictures/ml.png)
 
 ## MLib
 Databrick users are able to access the MLlib, or Spark's machine learning library, which makes machine learning scalabe and easy to implement . Tools avaiable for the library include
