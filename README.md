@@ -3,7 +3,7 @@
 ## Presentation
 Follow [along](https://byui451.github.io/guide_machine_learning/#1)
 
-## What is a machine learning?
+## What is machine learning?
 In simple terms, machine learning is a diverse set of tools that are used to understand data and it allows us to go further beyond summary statistics and basic analystics. To sum it up, machine learning learns from the data without being programmed. 
 
 ## MLib
